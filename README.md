@@ -17,6 +17,7 @@ This project was completed collaboratively as part of a 6-person team during my 
 ## 🚀 Key Deliverables
 * Executed advanced SQL queries to analyze YoY sales growth, profit margins, and customer retention, driving actionable insights for seasonal product bundling.
 * Engineered a clean relational data model by appending multiple regional sales tables.
+* [Link to SQL Scripts Folder](./SQL_Scripts)
 
 ## 📊 Dashboard & Insights
 <img width="875" height="413" alt="Tab_Dash" src="https://github.com/user-attachments/assets/5ce4ba96-1d2d-4d7f-b275-dcedfa0a8b57" />
